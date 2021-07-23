@@ -4,7 +4,7 @@
 		alt="Linuxtech Logo"
 		src="https://github.com/avpaula/homer/blob/main/public/logo.png">
     <br/>
-    Homer
+    Linuxtech Dashboard
 </h1>
 
 <h4 align="center">
@@ -13,11 +13,11 @@
 
 <p align="center">
 	<strong>
-  	<a href="https://homer-demo.netlify.app">Demo</a>
+  	<a href="https://linuxtech.pt/">Website</a>
 		•
-		<a href="https://gitter.im/homer-dashboard/community">Chat</a>
+		<a href="https://t.me/linuxtechpt">Telegram</a>
 		•
-		<a href="#getting-started">Getting started</a>
+		<a href="https://linuxtech.pt/loja/">Shop</a>
 	</strong>
 </p>
 <p align="center">
