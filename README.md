@@ -1,8 +1,8 @@
 <h1 align="center">
 	<img
 		width="180"
-		alt="Homer's donut"
-		src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png">
+		alt="Linuxtech Logo"
+		src="https://github.com/avpaula/homer/blob/main/public/logo.png">
     <br/>
     Homer
 </h1>
